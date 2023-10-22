@@ -1,2 +1,3 @@
 # UniTrade
-College Marketplace Platform where students can exchange talents, services, and used goods! 
+
+Download UniTrade now and unlock the full potential of your college life!
